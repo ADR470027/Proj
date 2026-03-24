@@ -1,0 +1,14 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+tensorflow
+keras
+joblib
+matplotlib
+protobuf==3.20.3
+werkzeug>=1.0.1
+typing_extensions
